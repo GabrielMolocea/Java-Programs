@@ -1,5 +1,5 @@
 package com.beginner;
-// Total caloris burned = Duration(min) *(MET<2.5>*weight
+
 import java.util.Scanner;
 
 class Caloris{
