@@ -33,7 +33,8 @@ class Caloris{
             case 2:
                     double BMRF = 655.1 + (4.35 * Weight1 * 2.2) + (4.7 * (Height * 2.54)) - (4.7 * Age);
                     double TotalCaloriesBurnedFemale = BMRF * WalkTime;
-                System.out.print(TotalCaloriesBurnedFemale);
+                System.out.print("To maintain you'r weight you need burn: " + TotalCaloriesBurnedFemale + " calories per day");
+
                 break;
 
     }
